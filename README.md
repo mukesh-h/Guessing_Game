@@ -6,6 +6,7 @@
 * You have only thrice chances.
 * If you guess the right number you will be won.
 * If you guess the wrong number You will be lose.
+* Enjoy the game.
 
 ### Language.
 * Python.
