@@ -10,6 +10,3 @@ while guess__count < guess__limit:
         break
     elif guess__count == guess__limit:
         print('Sorry, you failed :(''\n''Never mind play again 👍')
-    else:
-        print('Sorry, you failed :( ')
-                                          
