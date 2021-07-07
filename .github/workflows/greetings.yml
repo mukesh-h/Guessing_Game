@@ -1,4 +1,4 @@
-name: Greetings
+name: Guessing_game
 
 on: [pull_request, issues]
 
