@@ -11,5 +11,5 @@ while guess__count < guess__limit:
     elif guess__count == guess__limit:
         print('Sorry, you failed :(''\n''Never mind play again 👍')
     else:
-        print("Sorry, You failed :( ")
+        print("Sorry, You failed !!! :( ")
 
