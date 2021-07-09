@@ -8,7 +8,7 @@
 * If you guess the wrong number You will be lose.
 * Enjoy the game.
 
-### Language.
+### Script (language).
 * Python.
 
 #### Launches(Compile).
