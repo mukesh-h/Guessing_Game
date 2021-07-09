@@ -8,10 +8,8 @@ on:
     branches: [ master ]
   pull_request:
    branches: [ master ]
-
-Jobs:
-  build:
-     steps:
+   
+steps:
     - name: 'Enjoy the game'
       run: guess the number
     - name: 'Find error'
