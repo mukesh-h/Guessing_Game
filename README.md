@@ -1,4 +1,4 @@
-### About the Project.
+## About the Project.
 * This is a guessing game project.
 
 ### Working of the Project(game).
