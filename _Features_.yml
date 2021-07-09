@@ -6,12 +6,13 @@ Release:
 on:
   push:
     branches: [ master ]
-  pull_request: [ master ]
+  pull_request:
+   branches: [ master ]
 
 Jobs:
   build:
      steps:
     - name: 'Enjoy the game'
       run: guess the number
-    - name: 'Find bug'
+    - name: 'Find error'
       run : Go to pull request
